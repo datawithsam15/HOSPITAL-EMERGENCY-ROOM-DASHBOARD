@@ -70,11 +70,29 @@ Dashboard Preview
 
 
 
-<img width="691" height="506" alt="hospital_ER_3" src="https://github.com/user-attachments/assets/358c13a0-3b17-4147-825f-66d823cb7d0d" />
-
 
 
 <img width="687" height="494" alt="hospital_ER_2" src="https://github.com/user-attachments/assets/654c883f-2ffe-4413-8f1b-eb541b2500c4" />
+
+
+
+
+<img width="691" height="506" alt="hospital_ER_3" src="https://github.com/user-attachments/assets/bf67b960-ced1-4791-806c-7727c6d47273" />
+
+
+
+## Analytical Highlights
+
+**High Patient Volume:** Served 9,216 patients overall.
+
+**Efficient Wait Times:** Averaged only 35.3 minutes wait.
+
+**Excellent Satisfaction:** Scored 4.99 patient satisfaction.
+
+**Strong Referrals:** Referred 3,816 patients successfully.
+
+
+
 
 
 
